@@ -1,0 +1,10 @@
+{
+  "realm": "node-ms",
+  "auth-server-url": "http://localhost:8080/auth/",
+  "ssl-required": "external",
+  "resource": "service",
+  "credentials": {
+    "secret": "43108279-6454-471b-9edb-6d423d877148"
+  },
+  "confidential-port": 0
+}
