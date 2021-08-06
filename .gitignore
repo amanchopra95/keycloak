@@ -23,3 +23,6 @@ sublime.*
 */package-lock.json
 **/package-lock.json
 **/target
+**/.project
+**/.classpath
+**/.settings
