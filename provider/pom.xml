@@ -13,7 +13,7 @@
   <url>http://www.example.com</url>
 
   <properties>
-    <keycloak.version>15.0.0</keycloak.version>
+    <keycloak.version>21.0.1</keycloak.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.11</maven.compiler.source>
     <maven.compiler.target>1.11</maven.compiler.target>
